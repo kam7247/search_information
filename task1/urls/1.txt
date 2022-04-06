@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+  <title>РАЦИОНАЛЬНОЕ ПИТАНИЕ | nauchforum.ru</title>
+  <meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Шуаиб Т. РАЦИОНАЛЬНОЕ ПИТАНИЕ // XLVII Студенческая международная научно-практическая конференция «Естественные и медицинские науки. Студенческий научный форум»">
+<meta property="og:image" content="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" />
+<link rel="canonical" href="https://nauchforum.ru/studconf/med/47/104303" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_4371039c69b8629c8f5152a51c652980_88.css" />
+    <!--[if IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie8-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie8-fixes.css?n" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie7-fixes.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie7-fixes.css?n" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/themes/fusion/fusion_core/css/ie6-fixes.css?n"/>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/mix_and_match/css/ie6-fixes.css?n"/>
+  <![endif]-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js_9467b9fb9f2f6e62446dd1506332229a_34.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"cron":{"basePath":"\/poormanscron","runNext":1645972345}});
+//--><!]]>
+</script>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link type="image/png" sizes="16x16" rel="icon" href="/favicon_16.png">
+    <link type="image/png" sizes="32x32" rel="icon" href="/favicon_32.png">
+    <link type="image/png" sizes="96x96" rel="icon" href="/favicon_96.png">
+    <link type="image/png" sizes="120x120" rel="icon" href="/favicon_120.png">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        function getCookie(name) {
+            var matches = document.cookie.match(new RegExp(
+                "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+            ));
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        }
+        ga('create', 'UA-36139972-1', 'auto');
+            </script>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,600,700&amp;subset=latin,cyrillic" rel="stylesheet" />
+
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-189650-dWQmR';</script>
+
+  <!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?53"></script>
+<script type="text/javascript">
+  VK.init({apiId: 3403539, onlyWidgets: true});
+</script>
+  <script type="text/javascript" src="//vk.com/js/api/share.js?94" charset="windows-1251"></script>
+
+</head>
+
+<body id="pid-studconf-med-47-104303" class="not-front not-logged-in page-node node-type-article no-sidebars i18n-ru full-node layout-main sidebars-split font-size-16 grid-type-960 grid-width-16 gray green-accents gray-footer green-headers default-links default-corners">
+	<div id="container">
+		<div id="header" class="header full-width ">
+			<div id="header-group-inner" class="header-group-inner inner clearfix">
+                <div id="logo">
+                    <a href="/" title="Главная"></a>
+                                    </div>
+	           	<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/med/47/104303"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
+
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
+
+  <input type="hidden" name="form_build_id" id="form-517878ff133738d0c232a2d1f381bad9" value="form-517878ff133738d0c232a2d1f381bad9"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+								<div class="info">
+					<span class="phone"><a href="tel:+74999389466"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 16.877 16.877" style="enable-background:new 0 0 16.877 16.877;" xml:space="preserve"><path d="M5.301,5.587L1.404,1.688c0.503-0.503,1.005-1.007,1.509-1.511C3.146-0.056,3.522-0.06,3.756,0.17l3.036,3.039   c0.232,0.232,0.232,0.614-0.003,0.848L6.124,4.721L5.505,5.34C5.429,5.417,5.36,5.499,5.301,5.587z M8.507,11.938   c-0.638-0.549-1.25-1.132-1.844-1.725C6.07,9.616,5.489,9.006,4.939,8.365c-0.45-0.52-0.538-1.273-0.303-1.907L0.636,2.457   c-0.931,0.957-0.812,3.33,0.208,5.415c0.438,0.902,1.006,1.716,1.593,2.49c0.586,0.768,1.229,1.494,1.906,2.176   c0.679,0.681,1.401,1.327,2.171,1.913c0.774,0.589,1.59,1.153,2.486,1.59c2.088,1.019,4.462,1.131,5.418,0.199l-4.001-4.001   C9.783,12.474,9.029,12.387,8.507,11.938z M16.702,13.119l-3.036-3.037c-0.233-0.23-0.615-0.23-0.848,0.003h-0.002l-0.667,0.666   l-0.615,0.618c-0.076,0.076-0.159,0.143-0.247,0.205l3.896,3.898c0.504-0.505,1.007-1.007,1.512-1.51   C16.93,13.729,16.935,13.352,16.702,13.119z" fill="#FFFFFF"/></svg>+7 (499) 938-94-66</a></span>
+					<span class="mail"><a href="mailto:mail@nauchforum.ru"><svg width="22px" height="14px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.98 30.08"><path d="M959.55,543h0a1.72,1.72,0,0,0,.94-0.28l0.07,0,0.05,0,0.85-.71,20.45-16.87a0.24,0.24,0,0,0-.19-0.1h-44.5a0.23,0.23,0,0,0-.15.05l21.4,17.63a1.68,1.68,0,0,0,1.06.35h0ZM937,527.39v25L952.33,540Zm29.67,12.72L982,552.41V527.47Zm-4.87,4a3.65,3.65,0,0,1-4.5,0l-3.51-2.89L937,554.8v0a0.24,0.24,0,0,0,.24.24h44.5a0.24,0.24,0,0,0,.23-0.24v0L965.2,541.32Zm0,0" transform="translate(-937 -525)"/></svg>mail@nauchforum.ru</a></span>
+                    <span class="whatsapp"><a href="https://wa.me/74999389466"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.00401338 20L1.35601 15.032C0.465151 13.5049 -0.00289063 11.768 1.34322e-05 10C1.34322e-05 4.477 4.47701 0 10 0C15.523 0 20 4.477 20 10C20 15.523 15.523 20 10 20C8.23279 20.0029 6.49667 19.5352 4.97001 18.645L0.00401338 20ZM6.39101 5.308C6.26188 5.31602 6.13569 5.35003 6.02001 5.408C5.91153 5.46943 5.81251 5.54622 5.72601 5.636C5.60601 5.749 5.53801 5.847 5.46501 5.942C5.09542 6.423 4.89662 7.01342 4.90001 7.62C4.90201 8.11 5.03001 8.587 5.23001 9.033C5.63901 9.935 6.31201 10.89 7.20101 11.775C7.41501 11.988 7.62401 12.202 7.84901 12.401C8.9524 13.3725 10.2673 14.073 11.689 14.447L12.258 14.534C12.443 14.544 12.628 14.53 12.814 14.521C13.1053 14.506 13.3896 14.4271 13.647 14.29C13.778 14.2225 13.9058 14.1491 14.03 14.07C14.03 14.07 14.073 14.042 14.155 13.98C14.29 13.88 14.373 13.809 14.485 13.692C14.568 13.606 14.64 13.505 14.695 13.39C14.773 13.227 14.851 12.916 14.883 12.657C14.907 12.459 14.9 12.351 14.897 12.284C14.893 12.177 14.804 12.066 14.707 12.019L14.125 11.758C14.125 11.758 13.255 11.379 12.724 11.137C12.668 11.1126 12.608 11.0987 12.547 11.096C12.4786 11.089 12.4095 11.0967 12.3443 11.1186C12.2791 11.1405 12.2193 11.1761 12.169 11.223V11.221C12.164 11.221 12.097 11.278 11.374 12.154C11.3325 12.2098 11.2754 12.2519 11.2098 12.2751C11.1443 12.2982 11.0733 12.3013 11.006 12.284C10.9409 12.2666 10.877 12.2445 10.815 12.218C10.691 12.166 10.648 12.146 10.563 12.109L10.558 12.107C9.98592 11.8572 9.45624 11.5198 8.98801 11.107C8.86201 10.997 8.74501 10.877 8.62501 10.761C8.23159 10.3842 7.88873 9.95801 7.60501 9.493L7.54601 9.398C7.50364 9.33416 7.46937 9.2653 7.44401 9.193C7.40601 9.046 7.50501 8.928 7.50501 8.928C7.50501 8.928 7.74801 8.662 7.86101 8.518C7.9551 8.39832 8.04289 8.27382 8.12401 8.145C8.24201 7.955 8.27901 7.76 8.21701 7.609C7.93701 6.925 7.64701 6.244 7.34901 5.568C7.29001 5.434 7.11501 5.338 6.95601 5.319C6.90201 5.313 6.84801 5.307 6.79401 5.303C6.65972 5.29633 6.52515 5.29766 6.39101 5.307V5.308Z" fill="#521818"/></svg>WhatsApp <span>+7 (499) 938-94-66</span></a></span>
+				</div>
+									<div id="nav-icon">
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					  <span></span>
+					</div>
+					<div id="header-menu">
+						<div id="search-box" class="search-box block">
+<div id="search-box-inner" class="search-box-inner inner clearfix">
+<form action="/studconf/med/47/104303"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search">
+  <div id="search-input">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-header" size="15" title="Введите ключевые слова для поиска." value="" placeholder="Поиск по сайту..." class="form-text" />
+  </div>
+
+  <div id="search-button">
+    <input type="submit" name="op" value="" id="edit-submit-2" class="searchButton"  alt="Поиск" />
+  </div>
+
+  <input type="hidden" name="form_build_id" id="form-517878ff133738d0c232a2d1f381bad9" value="form-517878ff133738d0c232a2d1f381bad9"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div><!-- /search-box-inner -->
+</div><!-- /search-box -->
+						<div id="block-menu-menu-main-menu" class="block block-menu odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>Конференции</span><ul class="menu"><li class="leaf first"><a href="/conf" title="">Научные конференции</a></li>
+<li class="leaf last"><a href="/studconf" title="">Студенческие конференции</a></li>
+</ul></li>
+<li class="expanded"><span>Журналы</span><ul class="menu"><li class="leaf first"><a href="/journal/stud" title="">Журнал «Студенческий форум»</a></li>
+<li class="leaf last"><a href="/journal/universum" title="">Научные журналы «Universum»</a></li>
+</ul></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-rinc" title="">РИНЦ</a></li>
+<li class="expanded"><span>ВАК</span><ul class="menu"><li class="leaf first"><a href="/publikaciya-v-zhurnalah-vak" title="">Публикация ВАК</a></li>
+<li class="leaf"><span>Специальные предложения:</span></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/ekonomicheskie-nauki" title="">08.00.00 Экономические науки</a></li>
+<li class="leaf"><a href="/publikaciya-v-zhurnalah-vak/juridicheskie-nauki" title="">12.00.00 Юридические науки</a></li>
+<li class="leaf last"><a href="/publikaciya-v-zhurnalah-vak/pedagogicheskie-nauki" title="">13.00.00 Педагогические науки</a></li>
+</ul></li>
+<li class="leaf"><a href="/avtoram" title="">Авторам</a></li>
+<li class="expanded last"><span>Архив</span><ul class="menu"><li class="leaf first"><a href="/archive/article" title="">Архив статей</a></li>
+<li class="leaf last"><a href="/archive/editions" title="">Архив изданий</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block -->											</div>
+							</div><!-- /header-group-inner -->
+		</div><!-- /header -->
+				<div id="page" class="page white-page-bg">
+				        <div id="main" class="main">
+	            	              <div id="main-group-inner" class="main-group-inner inner">
+	                
+	                <div id="main-content" class="main-content row nested">
+	                  <div id="main-content-inner" class="main-content-inner inner">
+	                    <!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
+	                    <div id="content-group" class="content-group row nested">
+	                      <div id="content-group-inner" class="content-group-inner inner">
+	                      	<div id="content-group-wrap">
+		                      	<a name="main-content-area" id="main-content-area"></a>
+		                        <div class="breadcrumb"><a href="/">Главная</a> / <a href="/studconf">Студенческие конференции</a> / <a href="/studconf/med">Естественные и медицинские науки</a> / <a href="/studconf/med/47">XLVII</a> / Статья</div>		                        
+		                        <div id="content-region" class="content-region row nested">
+		                          <div id="content-region-inner" class="content-region-inner inner">
+		                            <div id="content-inner" class="content-inner block">
+		                              <div id="content-inner-inner" class="content-inner-inner inner">
+
+		                                		                                		                                		                                <div id="content-content" class="content-content">
+											<div class="node-article stud">
+	<div class="article_head clearfix">
+		<strong>Статья:</strong> <h1>РАЦИОНАЛЬНОЕ ПИТАНИЕ</h1>
+		<p><strong>Конференция:</strong> <a href="/studconf/med/47">XLVII Студенческая международная научно-практическая конференция «Естественные и медицинские науки. Студенческий научный форум»</a></p>		<p><strong>Секция:</strong> Биология</p>		<div class="output"><div class="turn_next">Выходные данные</div><div class="text">Шуаиб Т. РАЦИОНАЛЬНОЕ ПИТАНИЕ // Естественные и медицинские науки. Студенческий научный форум: электр. сб. ст. по мат. XLVII междунар. студ. науч.-практ. конф. № 1(47). URL:&nbsp;<a href="https://nauchforum.ru/archive/SNF_nature/1%2847%29.pdf">https://nauchforum.ru/archive/SNF_nature/1(47).pdf</a> (дата обращения: 27.02.2022)</div></div>
+		<div class="action">
+			<a href="/studconf/med" class="btn gray" onclick="ga(&#039;send&#039;, &#039;event&#039;, &#039;click1&#039;, &#039;publ&#039;);">К условиям публикации</a>			<a href="/archive/SNF_nature/1%2847%29.pdf" class="btn">Скачать сборник</a>		</div>
+		<div class="notice">Лауреаты определены. Конференция завершена</div><div class="honor_wrapp"><div class="wrap"><div class="count">Эта статья набрала <span>0</span> голосов</div><div class="vk_like"><span class="btn vk">Мне нравится</span><span class="like_counter_wrap"><div class="arrow"></div><span id="stats_num">0</span></span><div id="vk_like"></div>
+							<script type="text/javascript">VK.Widgets.Like("vk_like", {redesign: 1, type: "button", height: 30}, 104303);VK.Observer.subscribe("widgets.like.liked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);}); VK.Observer.subscribe("widgets.like.unliked", function(param) {jQuery(".honor_wrapp .vk_like #stats_num").text(param);});</script></div><div class="w-320 mob-block" style="width:235px;margin:0 auto;text-align: center;"><div style="width:50%;float:left;">Дипломы <br/>лауреатов</div><div style="width:50%;float:left;">Сертификаты <br/>участников</div></div><div class="dip_and_sert"><div style="margin-right: 18px;line-height: 150%;">Дипломы <br/>лауреатов</div><div><img style='margin-right: 14px;float: left;' src=/themes/mix_and_match/images/dip_and_sert/gold_gray.png /><img style='margin-right: 27px;' src=/themes/mix_and_match/images/dip_and_sert/silver_gray.png /></div><div style="margin-right: 15px;line-height: 150%;">Сертификаты <br/>участников</div><div><img style='margin-right: 23px;' src=/themes/mix_and_match/images/dip_and_sert/sert_gray.png /><img src=/themes/mix_and_match/images/dip_and_sert/nauch_gray.png /></div></div></div></div>	</div>
+	<div style="padding-bottom: 50px;"><a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>			<div class="inner node-inner">
+							    
+			    <div class="content clearfix node-content body-article">
+			    	<script type='text/javascript'> 
+							function ShareToVk() {  
+								tltl = document.title  
+								width = 550  
+								height = 268  
+								w_top = (window.screen.height - height)/2  
+								w_left = (window.screen.width - width)/2  
+								window.open('//vk.com/share.php?url=https://nauchforum.ru/studconf/med/47/104303&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=РАЦИОНАЛЬНОЕ ПИТАНИЕ', 'shareSite','width=550px,height=268px,resizable=yes,scrollbars=yes,left='+w_left+',top='+w_top);
+							}
+						</script><div class="print_block clearfix"><img src="https://nauchforum.ru/themes/mix_and_match/images/logo.jpg" /><p>XLVII Студенческая международная научно-практическая конференция «Естественные и медицинские науки. Студенческий научный форум»</p></div><div class="article_action"><span title="Распечатать" onclick="window.print();" class="print">на печать</span><a rel="nofollow" title="Скачать в pdf" href="/page/download.php?article=104303" class="download">скачать .pdf</a><a title="Поделиться ВКонтакте" onclick="ShareToVk(); return false;" href="//vk.com/share.php?url=https://nauchforum.ru/studconf/med/47/104303&image=https://nauchforum.ru/themes/mix_and_match/images/logo.jpg&title=РАЦИОНАЛЬНОЕ ПИТАНИЕ" target="_blank" class="vk_group">поделиться</a></div><p class="title">РАЦИОНАЛЬНОЕ ПИТАНИЕ</p><div class="fio_article">Шуаиб Тулин</div><div class="regalia_article">студент, Майкопский государственный технологический университет,  РФ, г. Майкоп</div><div class="fio_article">Ашхамахов Казбек Идадович</div><div class="regalia_article">научный руководитель, канд. пед. наук, доцент кафедры физического воспитания,
+ Майкопский государственный технологический университет, 
+РФ, г. Майкоп
+</div>					<div class="body-content">
+						<p class="rtejustify">&nbsp;</p>
+<p class="rtejustify">&ldquo;Когда питание неправильное, лекарства бесполезны, а при правильном питании лекарства не нужны.&rdquo;&nbsp;- Древняя аюрведическая пословица.</p>
+<p class="rtejustify">Сбалансированная диета или здоровая диета содержит равное количество из всех групп продуктов. Это баланс жиров, углеводов, белков, сахара, витаминов и минералов. Здоровому человеку требуется около 3200 калорий в день, чтобы поддерживать нормальную работу системы организма, а получение такого количества калорий, зависит от самого человека.</p>
+<p class="rtejustify">Переедание может быть так же вредно для организма, как и недоедание. Существует общее заблуждение, что недоедание происходит из-за недостатка пищи. Но правда в том, что недоедание является результатом отсутствия нужного количества различных продуктов. Употребление пищи в неправильном количестве и неправильных пропорциях может нанести вред здоровью человеку и&nbsp; вызвать тяжелые недуги и заболевания. Этот тип бездумной диеты известен как нездоровая диет а и ли несбалансированная диета.</p>
+<p class="rtejustify">Здоровый образ жизни - это система жизнедеятельност и ч еловека, которая направлена на поддержке и &nbsp; улучшение здоровья с помощью &nbsp; питания, физической активности , отказа от вредных привычек и морального настроя .</p>
+<p class="rtejustify">Питание - все процессы которы е у частвую т в &nbsp; п отреблении и усвоении пищевых веществ в организм е д ля поддержания нормальной жизнедеятельности.</p>
+<p class="rtejustify">Физиология питания - наука, изучающая питательные процессы, она определяет потребность организма в питательных веществах и энергии и создае научные основы по рационализации питания человека .[3]</p>
+<p class="rtejustify">Питание очень важно для организма и она выполняет несколько функции,таких как : регенерация тканей и клеток ; обеспечивает энергии ; в результате образуются гормоны, ферменты и другие регуляторы метаболических процессов.</p>
+<p class="rtejustify">Полноценное питание предусматривает наличие в пище всего набора веществ, необходимых человеку в соответствии с научно обоснованными потребностями. В рациональном диете должны быть все вещества ,необходимые человеку в соответстви и с научными потребностями.</p>
+<p class="rtejustify">основные принципы составления рациональной диеты:</p>
+<p class="rtejustify">&ndash; поддержани е п остоянств а в нутренней среды организма</p>
+<p class="rtejustify">&ndash; количество питательных веществ,не менее минимальной потребности ;</p>
+<p class="rtejustify">&ndash; количесвто витаминов и минералов, не должно превышать ядовитый уровень .[1]</p>
+<p class="rtejustify">Основной обмен -это минимальное количество энергии, для поддерживания жизни в состояни и полного покоя. у стандартного мужчина основной обмен в среднем равен 1600 ккал, а у женщины &mdash; 1400 ккал. Основной обмен зависит от общей массы тела,от возраста ,от индивидуальных особенностей человека и от внешних условий проживания.[2]</p>
+<p class="rtejustify">Рациональное питание может помочь предотвратить некоторые хронические заболевания, такие как болезни сердца, инсульт и диабет. Это также может помочь снизить рис к развития некоторых видов рака и помочь &nbsp;поддерживать здоровый вес. Надо соблюдать принципы здорового&nbsp; питания. Рекомендаци и могут отличаться для определенных групп людей, включая беременных женщин, людей с определенными проблемам и со здоровьем или людей с особым и д иетическими потребностями.</p>
+<p class="rtejustify">Взрослому человеку в день надо употреблять 80 - 100 гр белков,&nbsp; 80 - 100гр жиров,400- 500гр углеводов, 25 - 30гр клетчатки, 12 видов витаминов, Около 20 видов микроэлементов .</p>
+<p class="rtejustify">&nbsp;</p>
+<div class="rtejustify">
+	<strong>Список литературы:&nbsp;</strong></div>
+<div class="rtejustify">
+	1.<span style="white-space:pre"> </span>Основы рационального питания В.Я.Груданов, Е.С.Пашкова, Л.Ф.Расолько T. A.&nbsp; Шустанова .</div>
+<div class="rtejustify">
+	2.<span style="white-space:pre"> </span>https://dietolog.org/basis/balance/&nbsp;</div>
+<div class="rtejustify">
+	3.<span style="white-space:pre"> </span>https://works.doklad.ru/view/AwwkWgj8hD8/all.html&nbsp;</div>
+<div>
+	&nbsp;</div>
+					</div>
+			    </div>
+			</div><!-- /inner -->
+			<div class="article_footer">
+			    				<div class="similar"><h3>Похожие статьи</h3><ul><li><a href="/studconf/med/xxiv/7582">ВЛИЯНИЕ ЗВУКОВ НА РАСТЕНИЯ</a></li><li><a href="/studconf/med/xxiii/7098">ЭКЗОГЕННЫЕ И ГЕНЕТИЧЕСКИЕ ФАКТОРЫ РАЗВИТИЯ САХАРНОГО ДИАБЕТА</a></li><li><a href="/studconf/med/xxxii/10392">ОБРАЗ ЖИЗНИ И СЕРДЕЧНО-СОСУДИСТАЯ ПАТОЛОГИЯ  (НА ПРИМЕРЕ ЖИТЕЛЕЙ БОРИСОГЛЕБСКОГО РАЙОНА  ВОРОНЕЖСКОЙ ОБЛАСТИ) </a></li><li><a href="/studconf/med/xliv/19936">Биохимические показатели крови жителей г. Тюмени при сахарном диабете</a></li><li><a href="/studconf/med/40/93726">Межвидовая гибридизация и интрогрессия видов рода Salvia</a></li></ul></div><div class="action clearfix"><a href="/archive/article/181?direction=2" class="btn">Больше статей</a></div>				<div class="content clearfix node-content">
+					<div id="vk_comments"></div>
+					<script type="text/javascript">
+                        setTimeout(
+                            function(){
+                                VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"}, "104303");
+                            }, 3000);
+                    </script>
+				</div>
+											</div>
+	<a href="/publikaciya-v-zhurnalah-rinc?utm_source=nf&utm_medium=banner&utm_campaign=articles"><img style="width:100%;height:auto;" src="/sites/default/files/publ_rinc.png" /></a></div>
+		                                  		                                </div><!-- /content-content -->
+		                                		                              </div><!-- /content-inner-inner -->
+		                            </div><!-- /content-inner -->
+		                          </div><!-- /content-region-inner -->
+		                        </div><!-- /content-region -->
+
+		                        	                        </div>
+	                      </div><!-- /content-group-inner -->
+	                    </div><!-- /content-group -->
+
+	                    	                  </div><!-- /main-content-inner -->
+	                </div><!-- /main-content -->
+
+	                <div id="postscript-top" class="postscript-top row nested ">
+<div id="postscript-top-inner" class="postscript-top-inner inner clearfix">
+<div id="block-block-18" class="block block-block odd first last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Begin Talk-Me {literal} -->
+<script type='text/javascript'>
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '86aa32a62a1735e38616a7a2d4f55110';
+		s.src = 'https://lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
+</script>
+<!-- {/literal} End Talk-Me -->
+<script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://b24.sibac.info/upload/crm/site_button/loader_24_m79jia.js');
+</script>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div><!-- /postscript-top-inner -->
+</div><!-- /postscript-top -->
+	              </div><!-- /main-group-inner -->
+	        </div><!-- /main -->
+
+					</div><!-- /page -->
+
+	  	<div id="footer"><div class="footer-wrap"><div id="block-menu-menu-footer-menu" class="block block-menu odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<ul class="menu"><li class="expanded first"><span>О нас</span><ul class="menu"><li class="leaf first"><a href="/about" title="">Об издательстве</a></li>
+<li class="leaf"><a href="/reviews" title="">Отзывы</a></li>
+<li class="leaf"><a href="/news" title="">Новости</a></li>
+<li class="leaf last"><a href="/contacts" title="">Контакты</a></li>
+</ul></li>
+<li class="expanded"><span>Полезная информация</span><ul class="menu"><li class="leaf first"><a href="/payment" title="">Оплата</a></li>
+<li class="leaf"><a href="/rules-writing-articles" title="">Требования к оформлению статьи</a></li>
+<li class="leaf"><a href="/oferta" title="">Договор оферты</a></li>
+<li class="leaf last"><a href="/policy" title="">Политика обработки персональных данных</a></li>
+</ul></li>
+<li class="expanded last"><span>О публикации статей</span><ul class="menu"><li class="leaf first"><a href="/blog" title="">Блог издательства</a></li>
+<li class="leaf"><a href="/gde-mozhno-opublikovat-statyu-studentu" title="">Где можно опубликовать статью студенту</a></li>
+<li class="leaf last"><a href="/publikaciya-statej-magistrantov" title="">Публикация статей магистрантов</a></li>
+</ul></li>
+</ul>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --><div id="block-block-2" class="block block-block even  last">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<div class="counter-footer"><div class="left counter">
+	<a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank"><img alt="Лицензия Creative Commons" src="https://licensebuttons.net/l/by/4.0/88x31.png" style="border-width:0" /></a></div>
+<div class="left counter" style="width: 70px;">
+	<img src="/sites/default/files/16.png" width="32" height="32" />
+</div>
+</div>
+<div class="right vk-footer">
+	<a href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank" class="left" style="margin-right: 20px;display: inline-block;vertical-align: middle;">Наше издательство<br>в социальных сетях: </a>&nbsp;<a class="vk_group" href="https://vk.com/nauchforumsk" rel="nofollow" target="_blank">vk</a></div>
+<div class="creativecommons">
+	Все права защищены - 2022 Международный Центр Науки и Образования Это произведение доступно по <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="license nofollow" target="_blank">лицензии Creative Commons &laquo;Attribution&raquo; (&laquo;Атрибуция&raquo;) 4.0 Непортированная</a>. <a href="/sitemap">Карта сайта</a></div>
+<div class="clearfix"></div>
+<div class="jornal_register">
+	Научном журнал «Студенческий форум» издается 4 раза в месяц. Журнал зарегистрирован Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор), регистрационный номер: ЭЛ № ФС77-66232 от 01.07.2016 г. Учредитель: ООО "МЦНО".<br /> Главный редактор: Лебедева Надежда Анатольевна
+</div>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div></div>		<div class="no-print">
+			<div class="left_hover"><a href="#" id="up"><span>Наверх</span></a></div>
+						<div style="display:none"><div id="block-block-27" class="block block-block odd first">
+	<div class="inner clearfix">
+						<div class="content clearfix">
+			<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2944459", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2944459;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<script>
+							$( window ).load(function(){
+					if(typeof getCookie('_ga') != "undefined"){
+						var user_id = md5(getCookie('_ga').split('.')[2]+'.'+getCookie('_ga').split('.')[3]); 
+						ga('set', 'userId', "'"+user_id+"'");
+						var dimensionValue = user_id;
+						ga('set', 'dimension2', dimensionValue);
+												ga('send', 'pageview');	
+											}else{
+												ga('send', 'pageview');
+					}
+				});
+						</script><!-- Код тега ремаркетинга Google --><script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 968443882;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968443882/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>		</div>
+	</div><!-- /block-inner -->
+</div><!-- /block --></div>					</div>
+	</div>
+
+    <!--div class="info_message">
+        <div class="container inside_message">
+            <div class="close_info"></div>
+            <p>Уважаемые коллеги, издательство "Научный форум" с 30 марта по 30 апреля работает в обычном режиме</p>
+        </div>
+    </div-->
+</body>
+</html>
